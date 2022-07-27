@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Betty",
+        "email": "betty@techcamps.com",
+        "telefone": 12345678
+    },
+    {
+        "id": 2,
+        "nome": "Betty",
+        "email": "betty@techcamps.com",
+        "telefone": 12345678
+    },
+    {
+        "id": 3,
+        "nome": "Betty",
+        "email": "betty@techcamps.com",
+        "telefone": 12345678
+    },
+    {
+        "id": 4,
+        "nome": "Betty",
+        "email": "betty@techcamps.com",
+        "telefone": 12345678
+    },
+    {
+        "id": 5,
+        "nome": "Betty",
+        "email": "betty@techcamps.com",
+        "telefone": 12345678
+    }
+]
