@@ -20,3 +20,6 @@ VALUES (4, 'Betty', 'betty@techcamps.com', 12345678);
 
 INSERT INTO CLIENTE (id, nome, email, telefone)
 VALUES (5, 'Betty', 'betty@techcamps.com', 12345678);
+
+INSERT INTO CLIENTE (id, nome, email, telefone)
+VALUES (6, 'Betty', 'betty@techcamps.com', 12345678);
